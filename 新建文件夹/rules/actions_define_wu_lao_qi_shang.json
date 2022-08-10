@@ -1,0 +1,74 @@
+{
+  "name": "wu_lao_qi_shang",
+  "actionNums": "2",
+  "actions": [
+    {
+      "id": "0",
+      "frame_time": "5",
+      "ruleNums": "2",
+      "rules": [
+        {
+          "centerId": "6",
+          "point1Id": "10",
+          "point2Id": "12",
+          "low_score_angle": "15",
+          "mid_score_angle": "30",
+          "high_score_angle": "45",
+          "score_weight": "0.5"
+        },
+        {
+          "centerId": "5",
+          "point1Id": "9",
+          "point2Id": "11",
+          "low_score_angle": "15",
+          "mid_score_angle": "30",
+          "high_score_angle": "45",
+          "score_weight": "0.5"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "frame_time": "7",
+      "ruleNums": "4",
+      "rules": [
+        {
+          "centerId": "6",
+          "point1Id": "10",
+          "point2Id": "18",
+          "low_score_angle": "10",
+          "mid_score_angle": "15",
+          "high_score_angle": "20",
+          "score_weight": "0.1"
+        },
+        {
+          "centerId": "5",
+          "point1Id": "9",
+          "point2Id": "18",
+          "low_score_angle": "10",
+          "mid_score_angle": "15",
+          "high_score_angle": "20",
+          "score_weight": "0.1"
+        },
+        {
+          "centerId": "14",
+          "point1Id": "12",
+          "point2Id": "16",
+          "low_score_angle": "150",
+          "mid_score_angle": "140",
+          "high_score_angle": "130",
+          "score_weight": "0.4"
+        },
+        {
+          "centerId": "13",
+          "point1Id": "11",
+          "point2Id": "15",
+          "low_score_angle": "150",
+          "mid_score_angle": "140",
+          "high_score_angle": "130",
+          "score_weight": "0.4"
+        }
+      ]
+    }
+  ]
+}

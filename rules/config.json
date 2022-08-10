@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "id": "0",
+      "file_name": "rules/actions_define_shuang_shou_nao_hou.json",
+      "score_weight": "0.33"
+    },
+    {
+      "id": "1",
+      "file_name": "rules/actions_define_jian_dongxi.json",
+      "score_weight": "0.33"
+    },
+    {
+      "id": "2",
+      "file_name": "rules/actions_define_zuoxia.json",
+      "score_weight": "0.33"
+    }
+  ]
+}

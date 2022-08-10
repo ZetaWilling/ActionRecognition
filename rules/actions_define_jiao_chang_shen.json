@@ -1,0 +1,144 @@
+{
+  "name": "name_test",
+  "actionNums": "4",
+  "actions": [
+    {
+      "id": "0",
+      "frame_time": "0",
+      "ruleNums": "4",
+      "rules": [
+        {
+          "centerId": "12",
+          "point1Id": "16",
+          "point2Id": "18",
+          "low_score_angle": "10",
+          "mid_score_angle": "5",
+          "high_score_angle": "2",
+          "score_weight": "0.25"
+        },
+        {
+          "centerId": "11",
+          "point1Id": "15",
+          "point2Id": "18",
+          "low_score_angle": "10",
+          "mid_score_angle": "5",
+          "high_score_angle": "2",
+          "score_weight": "0.25"
+        },
+        {
+          "centerId": "14",
+          "point1Id": "12",
+          "point2Id": "16",
+          "low_score_angle": "160",
+          "mid_score_angle": "170",
+          "high_score_angle": "175",
+          "score_weight": "0.25"
+        },
+        {
+          "centerId": "13",
+          "point1Id": "11",
+          "point2Id": "15",
+          "low_score_angle": "160",
+          "mid_score_angle": "170",
+          "high_score_angle": "175",
+          "score_weight": "0.25"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "frame_time": "1000",
+      "ruleNums": "2",
+      "rules": [
+        {
+          "centerId": "14",
+          "point1Id": "12",
+          "point2Id": "16",
+          "low_score_angle": "160",
+          "mid_score_angle": "170",
+          "high_score_angle": "175",
+          "score_weight": "0.2"
+        },
+        {
+          "centerId": "13",
+          "point1Id": "11",
+          "point2Id": "15",
+          "low_score_angle": "100",
+          "mid_score_angle": "90",
+          "high_score_angle": "80",
+          "score_weight": "0.8"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "frame_time": "2000",
+      "ruleNums": "2",
+      "rules": [
+        {
+          "centerId": "14",
+          "point1Id": "12",
+          "point2Id": "16",
+          "low_score_angle": "100",
+          "mid_score_angle": "90",
+          "high_score_angle": "80",
+          "score_weight": "0.8"
+        },
+        {
+          "centerId": "13",
+          "point1Id": "11",
+          "point2Id": "15",
+          "low_score_angle": "160",
+          "mid_score_angle": "170",
+          "high_score_angle": "175",
+          "score_weight": "0.2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "frame_time": "3000",
+      "ruleNums": "4",
+      "rules": [
+        {
+          "centerId": "12",
+          "point1Id": "16",
+          "point2Id": "18",
+          "low_score_angle": "10",
+          "mid_score_angle": "5",
+          "high_score_angle": "2",
+          "score_weight": "0.25"
+        },
+        {
+          "centerId": "11",
+          "point1Id": "15",
+          "point2Id": "18",
+          "low_score_angle": "10",
+          "mid_score_angle": "5",
+          "high_score_angle": "2",
+          "score_weight": "0.25"
+        },
+        {
+          "centerId": "14",
+          "point1Id": "12",
+          "point2Id": "16",
+          "low_score_angle": "160",
+          "mid_score_angle": "170",
+          "high_score_angle": "175",
+          "score_weight": "0.25"
+        },
+        {
+          "centerId": "13",
+          "point1Id": "11",
+          "point2Id": "15",
+          "low_score_angle": "160",
+          "mid_score_angle": "170",
+          "high_score_angle": "175",
+          "score_weight": "0.25"
+        }
+      ]
+    }
+  ]
+}
+  
+

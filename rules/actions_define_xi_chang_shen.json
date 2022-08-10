@@ -1,0 +1,74 @@
+{
+  "name": "xi_chang_shen",
+  "actionNums": "2",
+  "actions": [
+    {
+      "id": "0",
+      "frame_time": "6",
+      "ruleNums": "3",
+      "rules": [
+        {
+          "centerId": "14",
+          "point1Id": "12",
+          "point2Id": "16",
+          "low_score_angle": "150",
+          "mid_score_angle": "140",
+          "high_score_angle": "130",
+          "score_weight": "0.2"
+        },
+        {
+          "centerId": "13",
+          "point1Id": "11",
+          "point2Id": "15",
+          "low_score_angle": "160",
+          "mid_score_angle": "150",
+          "high_score_angle": "140",
+          "score_weight": "0.2"
+        },
+        {
+          "centerId": "14",
+          "point1Id": "16",
+          "point2Id": "18",
+          "low_score_angle": "10",
+          "mid_score_angle": "20",
+          "high_score_angle": "30",
+          "score_weight": "0.6"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "frame_time": "11",
+      "ruleNums": "3",
+      "rules": [
+        {
+          "centerId": "14",
+          "point1Id": "12",
+          "point2Id": "16",
+          "low_score_angle": "160",
+          "mid_score_angle": "150",
+          "high_score_angle": "140",
+          "score_weight": "0.2"
+        },
+        {
+          "centerId": "13",
+          "point1Id": "11",
+          "point2Id": "15",
+          "low_score_angle": "150",
+          "mid_score_angle": "140",
+          "high_score_angle": "130",
+          "score_weight": "0.2"
+        },
+        {
+          "centerId": "13",
+          "point1Id": "15",
+          "point2Id": "18",
+          "low_score_angle": "10",
+          "mid_score_angle": "20",
+          "high_score_angle": "30",
+          "score_weight": "0.6"
+        }
+      ]
+    }
+  ]
+}

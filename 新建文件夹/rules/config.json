@@ -1,0 +1,52 @@
+{
+  "files": [
+    {
+      "id": "0",
+      "file_name": "rules/actions_define_shuang_shou_nao_hou.json",
+      "score_weight": "0.10",
+      "video_path": "videos/0.mp4"
+    },
+    {
+      "id": "1",
+      "file_name": "rules/actions_define_jian_dongxi.json",
+      "score_weight": "0.15",
+      "video_path": "videos/1.mp4"
+    },
+    {
+      "id": "2",
+      "file_name": "rules/actions_define_zuoxia.json",
+      "score_weight": "0.15",
+      "video_path": "videos/2.mp4"
+    },
+    {
+      "id": "3",
+      "file_name": "rules/actions_define_mian_chang_xi.json",
+      "score_weight": "0.10",
+      "video_path": "videos/3.mp4"
+    },
+    {
+      "id": "4",
+      "file_name": "rules/actions_define_rou_fu.json",
+      "score_weight": "0.10",
+      "video_path": "videos/4.mp4"
+    },
+    {
+      "id": "5",
+      "file_name": "rules/actions_define_bai_yao.json",
+      "score_weight": "0.10",
+      "video_path": "videos/5.mp4"
+    },
+    {
+      "id": "6",
+      "file_name": "rules/actions_define_jiao_chang_shen.json",
+      "score_weight": "0.15",
+      "video_path": "videos/6.mp4"
+    },
+    {
+      "id": "7",
+      "file_name": "rules/9actions_define_xi_chang_shen.json",
+      "score_weight": "0.15",
+      "video_path": "videos/7.mp4"
+    } 
+  ]
+}

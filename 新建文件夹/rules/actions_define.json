@@ -1,0 +1,36 @@
+{
+  "name": "name_test",
+  "actionNums": "3",
+  "actions": [
+    {
+      "id": "0",
+      "frame_time": "2",
+      "centerId": "14",
+      "point1Id": "12",
+      "point2Id": "16",
+      "low_score_angle": "30",
+      "mid_score_angle": "40",
+      "high_score_angle": "50"
+    },
+    {
+      "id": "1",
+      "frame_time": "3",
+      "centerId": "14",
+      "point1Id": "12",
+      "point2Id": "16",
+      "low_score_angle": "30",
+      "mid_score_angle": "40",
+      "high_score_angle": "50"
+    },
+    {
+      "id": "2",
+      "frame_time": "4",
+      "centerId": "14",
+      "point1Id": "12",
+      "point2Id": "16",
+      "low_score_angle": "30",
+      "mid_score_angle": "40",
+      "high_score_angle": "50"
+    }
+  ]
+}

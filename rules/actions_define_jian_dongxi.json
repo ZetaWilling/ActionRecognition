@@ -1,0 +1,79 @@
+{
+	"name": "jian_dong_xi",
+	"actionNums": "3",
+	"actions": [{
+			"id": "0",
+			"frame_time": "0",
+			"ruleNums": "2",
+			"rules": [
+				{
+					"centerId": "14",
+					"point1Id": "12",
+					"point2Id": "16",
+					"low_score_angle": "155",
+					"mid_score_angle": "160",
+					"high_score_angle": "175",
+					"score_weight": "0.3"
+				},
+				{
+					"centerId": "13",
+					"point1Id": "11",
+					"point2Id": "15",
+					"low_score_angle": "155",
+					"mid_score_angle": "160",
+					"high_score_angle": "175",
+					"score_weight": "0.3"
+				}
+			]
+		},
+		{
+			"id": "1",
+			"frame_time": "1000",
+			"ruleNums": "2",
+			"rules": [{
+					"centerId": "14",
+					"point1Id": "12",
+					"point2Id": "16",
+					"low_score_angle": "130",
+					"mid_score_angle": "90",
+					"high_score_angle": "35",
+					"score_weight": "0.9"
+				},
+				{
+					"centerId": "13",
+					"point1Id": "11",
+					"point2Id": "15",
+					"low_score_angle": "130",
+					"mid_score_angle": "90",
+					"high_score_angle": "35",
+					"score_weight": "0.9"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"frame_time": "2000",
+			"ruleNums": "2",
+			"rules": [
+				{
+					"centerId": "14",
+					"point1Id": "12",
+					"point2Id": "16",
+					"low_score_angle": "155",
+					"mid_score_angle": "160",
+					"high_score_angle": "175",
+					"score_weight": "0.3"
+				},
+				{
+					"centerId": "13",
+					"point1Id": "11",
+					"point2Id": "15",
+					"low_score_angle": "155",
+					"mid_score_angle": "160",
+					"high_score_angle": "175",
+					"score_weight": "0.3"
+				}
+			]
+		}
+	]
+}
